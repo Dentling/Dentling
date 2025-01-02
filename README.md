@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats-two-peach-60.vercel.app/api/top-langs/?username=dentling&layout=compact)](https://github.com/dentling/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-peach-60.vercel.app/api/top-langs/?username=dentling&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
